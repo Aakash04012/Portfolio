@@ -1,0 +1,10 @@
+{
+  "name":"Aakash Vishwakarma",
+  "role":"Digital Marketing & Performance Marketing Specialist",
+  "email":"youremail@example.com",
+  "location":"Your City, India",
+  "projects":[
+    {"title":"SEO & Ads Funnel","desc":"Full funnel optimization and ads"},
+    {"title":"Social Campaign","desc":"Organic + paid growth"}
+  ]
+}
